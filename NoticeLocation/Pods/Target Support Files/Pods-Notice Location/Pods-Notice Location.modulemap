@@ -1,0 +1,6 @@
+framework module Pods_Notice_Location {
+  umbrella header "Pods-Notice Location-umbrella.h"
+
+  export *
+  module * { export * }
+}
